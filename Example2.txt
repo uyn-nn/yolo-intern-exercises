@@ -1,2 +1,7 @@
-Thu Hai
+
+<<<<<<< HEAD
 dang bi loi
+=======
+mai mai la anh em 
+ 
+>>>>>> 8d6e46b31993e7a344c796c3930c18407071d9fb
